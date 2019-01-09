@@ -3,6 +3,22 @@
 <head>
     <title></title>
     <style media="screen">
+     @font-face {
+      font-family: atlantis the lost city;
+      src: url('Atlantis the lost City.ttf') format("truetypefile");
+    }
+    @font-face {
+        font-family: bakery;
+        src: url('bakery.otf') format("opentypefont");
+    }
+    @font-face {
+      font-family: intriquescript_personaluse;
+      src: url('IntriqueScript_PersonalUse.ttf');
+    }
+    @font-face {
+      font-family: Chasing Embers;
+      src: url('Chasing Embers.ttf') format("truetypefile");
+    }
         *{
             margin: 0;
             padding: 0;
