@@ -1,0 +1,20 @@
+# pratikum-3
+latihan 1
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/1s.PNG?raw=true)
+latihan 2
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/2s.PNG?raw=true)
+latihan 3
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/3s.PNG?raw=true)
+latihan 4
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/4s.PNG?raw=true)
+latihan 5
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/5s.PNG?raw=true)
+latihan 6
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/6s.PNG?raw=true)
+login berhasil
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/s1.PNG?raw=true)
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/s2.PNG?raw=true)
+login gagal
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/s3.PNG?raw=true)
+![alt text](https://github.com/Firdareynikaa/pratikum-3/blob/master/s4.PNG?raw=true)
+
